@@ -12,7 +12,7 @@ README THIS IS MY CONFIG YOU WON'T LIKE IT
 [![Discord Server](https://img.shields.io/discord/406534637242810369?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)][Discord]
 [![Discourse server](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscourse.doomemacs.org&logo=discourse&label=Discourse&style=flat-square&color=9cf)][Discourse]
 
-![Doom Emacs Screenshot](https://raw.githubusercontent.com/doomemacs/doomemacs/screenshots/main.png)
+![Doom Emacs Screenshot](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1339003/1cd83414f95640b8923fed1c38c669e1/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/23.png?token-time=1696377600&token-hash=gj1PZ0Zf7YLwgboI2yjJXq_T3L0v5StW0QTB_AiPxPo%3D)
 
 </div>
 
