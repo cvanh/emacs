@@ -1,3 +1,4 @@
+README THIS IS MY CONFIG YOU WON'T LIKE IT
 <div align="center">
 
 # Doom Emacs
@@ -29,7 +30,7 @@
 
 # Introduction
 <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573">
-  <img src="https://raw.githubusercontent.com/doomemacs/doomemacs/screenshots/cacochan.png" align="right" />
+  <img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1339003/1cd83414f95640b8923fed1c38c669e1/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/23.png?token-time=1696377600&token-hash=gj1PZ0Zf7YLwgboI2yjJXq_T3L0v5StW0QTB_AiPxPo%3D" align="right" />
 </a>
 
 > It is a story as old as time. A stubborn, shell-dwelling, and melodramatic
