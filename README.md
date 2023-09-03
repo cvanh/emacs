@@ -116,6 +116,12 @@ git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
 ~/.config/emacs/bin/doom install
 ```
 
+to link the custom configs you need to run:
+```
+mkdir ~/.config/doom/
+ln -s ~/.config/emacs/doom_configs/* ~/.config/doom/
+```
+
 Then [read our Getting Started guide][getting-started] to be walked through
 installing, configuring and maintaining Doom Emacs.
 
